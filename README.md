@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Flipper Zero things
 - 📫 How to reach me... GITHUB plz :)
 - ⚡ Fun fact: I love my Flipper Zero!
+- 🔫 Breakin S&*T cuz no one is.
+
 
 <!---
 FlipperZroUsr/FlipperZroUsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
